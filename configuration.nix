@@ -40,6 +40,7 @@
     vim
     htop
     git
+    tig
     i3status
     dmenu
     chromium

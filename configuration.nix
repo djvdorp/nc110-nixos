@@ -36,17 +36,12 @@
   # List packages installed in system profile. To search by name, run:
   # $ nix-env -qaP | grep wget
   environment.systemPackages = with pkgs; [
-    wget
     vim
     git
     tig
-    i3status
-    dmenu
     chromium
-    gnome3.dconf
-    networkmanagerapplet
-    xautolock
     curl
+    wget
     axel
     screen
     tmux
@@ -55,6 +50,11 @@
     ack
     sakura
     sudo
+    i3status
+    dmenu
+    xautolock
+    gnome3.dconf
+    networkmanagerapplet
   ];
 
   # List services that you want to enable:

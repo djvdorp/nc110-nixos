@@ -38,7 +38,6 @@
   environment.systemPackages = with pkgs; [
     wget
     vim
-    htop
     git
     tig
     i3status
@@ -46,9 +45,16 @@
     chromium
     gnome3.dconf
     networkmanagerapplet
-    sakura
     xautolock
+    curl
     axel
+    screen
+    tmux
+    htop
+    fail2ban
+    ack
+    sakura
+    sudo
   ];
 
   # List services that you want to enable:

@@ -75,6 +75,8 @@
     unrar
     gzip
     p7zip
+    mailnag
+    thunderbird
   ];
 
   # List services that you want to enable:

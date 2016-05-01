@@ -36,7 +36,6 @@
   # List packages installed in system profile. To search by name, run:
   # $ nix-env -qaP | grep wget
   environment.systemPackages = with pkgs; [
-    vim
     git
     tig
     curl
@@ -68,6 +67,9 @@
     mc
     ranger
     xarchiver
+    nano
+    vim
+    geany
   ];
 
   # List services that you want to enable:

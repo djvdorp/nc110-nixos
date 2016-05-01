@@ -36,6 +36,10 @@
   # List packages installed in system profile. To search by name, run:
   # $ nix-env -qaP | grep wget
   environment.systemPackages = with pkgs; [
+    python
+    python27Packages.virtualenv
+    python27Packages.virtualenvwrapper
+    python3
     curl
     wget
     axel

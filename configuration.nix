@@ -78,6 +78,9 @@
     git
     subversion
     tig
+    dunst
+    unclutter
+    parcellite
   ];
 
   # List services that you want to enable:

@@ -64,6 +64,10 @@
     epdfview
     scrot
     imagemagick_light
+    pcmanfm
+    mc
+    ranger
+    xarchiver
   ];
 
   # List services that you want to enable:

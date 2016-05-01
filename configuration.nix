@@ -58,6 +58,12 @@
     pulseaudioLight
     firefox
     chromium
+    vlc
+    feh
+    gpicview
+    epdfview
+    scrot
+    imagemagick_light
   ];
 
   # List services that you want to enable:

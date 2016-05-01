@@ -55,6 +55,8 @@
     xautolock
     gnome3.dconf
     networkmanagerapplet
+    alsaUtils
+    pulseaudioLight
   ];
 
   # List services that you want to enable:

@@ -39,7 +39,6 @@
     vim
     git
     tig
-    chromium
     curl
     wget
     axel
@@ -57,6 +56,8 @@
     networkmanagerapplet
     alsaUtils
     pulseaudioLight
+    firefox
+    chromium
   ];
 
   # List services that you want to enable:

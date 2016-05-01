@@ -70,6 +70,11 @@
     nano
     vim
     geany
+    zip
+    unzip
+    unrar
+    gzip
+    p7zip
   ];
 
   # List services that you want to enable:

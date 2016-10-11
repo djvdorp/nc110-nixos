@@ -59,6 +59,7 @@
     pulseaudioLight
     firefox
     chromium
+    midori
     vlc
     feh
     gpicview

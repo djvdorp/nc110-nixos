@@ -119,7 +119,7 @@
   # The NixOS release to be compatible with for stateful data such as databases.
   system.stateVersion = "16.09";
 
-  nixpkgs.system = "i686-linux";
+  nixpkgs.system = "x86_64-linux";
 
   nixpkgs.config.allowUnfree = true;
 

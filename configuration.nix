@@ -58,7 +58,7 @@
     alsaUtils
     pulseaudioLight
     firefox
-    chromium
+#    chromium
     midori
     vlc
     feh

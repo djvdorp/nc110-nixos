@@ -120,6 +120,7 @@
   system.stateVersion = "16.09";
 
   nixpkgs.system = "i686-linux";
+  #boot.kernelPackages = pkgs.linuxPackages_4_4;
 
   nixpkgs.config.allowUnfree = true;
 

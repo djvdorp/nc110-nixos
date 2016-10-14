@@ -49,6 +49,7 @@
     fail2ban
     ack
     sakura
+    rxvt_unicode
     sudo
     i3status
     dmenu

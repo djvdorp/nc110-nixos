@@ -88,10 +88,6 @@
     parcellite
   ];
 
-  environment.variables = {
-    NO_AT_BRIDGE = "1";
-  };
-
   # List services that you want to enable:
   # Enable the OpenSSH daemon.
   # services.openssh.enable = true;

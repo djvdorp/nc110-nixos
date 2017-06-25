@@ -114,7 +114,7 @@
   };
 
   # The NixOS release to be compatible with for stateful data such as databases.
-  system.stateVersion = "16.09";
+  system.stateVersion = "17.03";
 
   nixpkgs.system = "x86_64-linux";
   boot.kernelPackages = pkgs.linuxPackages_4_9;
